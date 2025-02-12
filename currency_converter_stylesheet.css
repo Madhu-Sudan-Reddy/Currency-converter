@@ -1,0 +1,111 @@
+* {
+    margin:0;
+    padding:0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    justify-content:center;
+    background-color: rgba(7, 4, 79,0.9);
+}
+#apiupdate {
+    position: absolute;
+    margin-bottom: 34rem;
+    font-size: smaller;
+    color: white;
+    
+}
+
+.container {
+    min-height: 50vh;
+    background-color:rgba(207, 215, 250,0.8);
+    padding: 2rem;
+    border-radius: 0.8rem;
+}
+
+form {
+    margin: 1rem 1rem 1rem 0;
+}
+
+form select,button,input {
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 0.3rem;
+    background-color: transparent;
+}
+
+form input {
+    border: 1px solid rgba(0,0,0,0.5);
+    height: 2.5rem;
+    font-size: 1rem;
+    padding-left:0.6rem;
+}
+
+img {
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.selectcontainer {
+    display: flex;
+    border: 1px solid rgba(0,0,0,0.5);
+    height: 2.5rem;
+    border-radius: 0.3rem;
+    padding-left: 0.4rem;
+}
+
+.dropdown {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+select {
+    border: 1px solid rgba(0,0,0,0.5);
+    height: 2.5rem;
+    font-size: 1rem;
+    margin-right:0.6rem;
+}
+
+
+i {
+    rotate: 90deg;
+    color: rgba(0, 0, 0, 0.668);
+}
+
+#icon {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    border: 1px solid rgba(0,0,0,0.5);
+    display: flex;
+    margin-left:8rem;
+    margin-top: 1rem;
+
+}
+
+.msg {
+    margin: 1rem 0 1rem 0;
+    justify-items: center;
+    
+}
+
+.msg button{
+    display: flex;
+    justify-content: center;
+    height: 2rem;
+    margin: 0.5rem;
+    background-color:rgb(31, 60, 245);
+    color: white;
+    padding-top: 5.6px;
+    border-radius: 0.8rem;
+    cursor: pointer;
+}
+
+.msg p {
+    margin-bottom: 1rem;
+}
