@@ -75,13 +75,13 @@ select {
 i {
     rotate: 90deg;
     color: rgba(0, 0, 0, 0.668);
+    font-size: larger;
+    font-weight: bolder;
 }
 
 #icon {
     height: 2rem;
     width: 2rem;
-    border-radius: 50%;
-    border: 1px solid rgba(0,0,0,0.5);
     display: flex;
     margin-left:8rem;
     margin-top: 1rem;
