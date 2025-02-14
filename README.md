@@ -10,6 +10,5 @@
 I have also used <a href="https://flagsapi.com/">FlagsAPI.com</a> for dynamically change the flags according to currency with few alters in link.</p>
 
 <h4>UI of Currency Converter</h4>
-![UI of Currency Converter Web application]([UI of Currency Converter .png](https://github.com/Madhu-Sudan-Reddy/Currency-converter/blob/ad74b73f5711777ceaa0120e57339c6f1dd8eac1/UI%20of%20Currency%20Converter%20.png))
 <img src="https://github.com/Madhu-Sudan-Reddy/Currency-converter/blob/ad74b73f5711777ceaa0120e57339c6f1dd8eac1/UI%20of%20Currency%20Converter%20.png" alt="UI of Currency Converter Web application">
 
